@@ -20,6 +20,7 @@ function App() {
   return (
     <div className="App">
       <Folder data={explorer} />
+      <div>muskdbksfgbkjsf</div>
       {/* <Input 
         handleNameChange={handleNameChange} 
         handleEmailChange={handleEmailChange}
